@@ -1,0 +1,17 @@
+org.mockito
+org.mockito.configuration
+org.mockito.exceptions.base
+org.mockito.exceptions.misusing
+org.mockito.exceptions.stacktrace
+org.mockito.exceptions.verification
+org.mockito.exceptions.verification.junit
+org.mockito.hamcrest
+org.mockito.invocation
+org.mockito.junit
+org.mockito.listeners
+org.mockito.mock
+org.mockito.plugins
+org.mockito.quality
+org.mockito.runners
+org.mockito.stubbing
+org.mockito.verification
